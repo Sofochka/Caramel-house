@@ -1,0 +1,97 @@
+body {
+    background: url("../images/intro3.jpg") center
+        no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+/*заголовок*/
+h1 {
+    margin-top: 40px;
+    font-size: 60px;
+    color: #8b0909;
+    margin-bottom: 5px;
+    margin-left: 80px;
+    text-align:left;
+}
+.home {
+    font-size: 35px;
+    font-family:inherit;
+    color: #d6a6a6;
+    background: none;
+    text-decoration: none;
+}
+
+
+/*десерты ручной работы*/
+h2 {
+    font-size: 25px;
+    color: #b54242;
+    text-align: left;
+    margin-left: 85px;
+}
+
+.container {
+    width: 100%;
+    color: #ffdddd;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+/* Cделаем твою жизнь чуточку слаще.. */
+.title {
+    font-family: courier-new;
+    margin-top: 80px;
+    color: #d6a6a6;
+    text-align: left;
+    margin-bottom: 10px;
+
+}
+
+/* Список гарантий */
+.spisok_inner {
+    margin-top: 10px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.spisok {
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 3px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 40px;
+}
+.description {
+    font-size: 40px;
+    font-family: "Century Gothic";
+    color: #d6a6a6;
+    background: none;
+}
+
+.description:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/*контакты*/
+.kont {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.telephone {
+    width: 100%;
+    text-align: right;
+    top: 0;
+    right: 0;
+    color: #d6a6a6;
+}
